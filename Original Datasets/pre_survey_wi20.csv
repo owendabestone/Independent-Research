@@ -1,0 +1,391 @@
+ID,Which of the following courses have you taken previously? Check all that apply.,In which of the following programming language(s) are you comfortable? Check all that apply.,"Which of the following topics are you familiar with? (Here, familiar means you could explain the topic clearly to a friend without Googling it first.) Check all that apply.",How comfortable are you with statistics?,How comfortable are you with programming?,"Why did you enroll in COGS 108? (It is *totally* ok if your answer is ""it was required"")"
+002_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, JSON",5,6,Elective
+005_wi20,NA,Java,Python,6,6,for elective class
+006_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal)",4,8,GE
+007_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, p-value",8,10,CSE Elective
+008_wi20,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",8,9,I want to learn how to do a real data science project.
+010_wi20,NA,None of these (I'm not comfortable programming),p-value,8,2,Core requirement for major
+011_wi20,NA,Java,"GitHub, JSON",3,7,Was looking for a interesting elective
+013_wi20,"COGS 9 w/ Prof Ellis, COGS 18 w/ Prof Ellis","Python, MATLAB","data science, GitHub, Python, Jupyter Notebooks, JSON, machine learning, confounding, p-hacking, sentiment analysis, pandas (the package, not the animal), sklearn",7,8,project experience/GE requirement
+014_wi20,NA,Java,"data science, GitHub",7,4,I'm interested on cognitive science and want to choose it as a minor
+015_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, tabular data, machine learning, p-value",6,8,technical elective
+016_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",9,9,interested
+017_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, JSON, machine learning",2,7,fulfilled upperdiv
+019_wi20,NA,Java,"p-value, A|B testing",8,3,"It was required, but the information does seem very useful"
+020_wi20,COGS 18 w/ Prof Ellis,"Python, Java, MATLAB","data science, Python, Jupyter Notebooks, machine learning",4,3,Required for Machine Learning Degree
+021_wi20,COGS 18 w/ Prof Ellis,"Python, Java","GitHub, Python, Jupyter Notebooks, machine learning",6,6,It was required.
+023_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), Python, Jupyter Notebooks, tabular data, machine learning, confounding, p-value, p-hacking, pandas (the package, not the animal), A|B testing",6,9,To gain project experience
+024_wi20,NA,Java,GitHub,2,10,I am interested in learning about Data Science.
+025_wi20,NA,Java,"GitHub, Python, Jupyter Notebooks",9,8,it was required
+026_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal), sklearn, A|B testing",4,7,It was a course I could take for my DSC major and I'd heard a lot of good things about the class. Also I thought the project would be something nice to be able to show.
+027_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python",5,10,When I was looking for a CSE elective to do I came across COGS 108 and it sounded very interesting. I haven't taken a COGS class before so I thought it would be something new.
+028_wi20,NA,MATLAB,"data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, machine learning, p-value",6,5,"It was required, but I really want to be proficient in Python."
+030_wi20,COGS 18 w/ Prof Ellis,"Python, Java","GitHub, Python, Jupyter Notebooks, JSON, machine learning",4,8,Im doing cogs for my field of area study in warren
+031_wi20,COGS 18 w/ Prof Ellis,"Python, Java","Python, Jupyter Notebooks",3,6,required and for interest
+032_wi20,NA,None of these (I'm not comfortable programming),"version control (i.e. git), GitHub, Jupyter Notebooks, A|B testing",4,4,It was required
+033_wi20,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks, confounding, p-value, pandas (the package, not the animal)",4,5,Required Course
+034_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal), sklearn",6,9,Interesting course for my COG SCI area study
+035_wi20,NA,Java,"version control (i.e. git), GitHub, p-value, none of the above",6,8,It is known as an easier elective
+039_wi20,NA,"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal), sklearn",6,10,I heard it was easy A.
+040_wi20,NA,Java,"version control (i.e. git), GitHub",5,7,Interested in data science
+041_wi20,NA,"Java, MATLAB, R","version control (i.e. git), GitHub, Jupyter Notebooks, p-value",8,9,Want to learn some other stuff other than my major requirement
+042_wi20,COGS 18 w/ Tom Donoghue,Python,"data science, GitHub, Python, Jupyter Notebooks, machine learning, p-value",6,4,Minor elective (CSS)
+043_wi20,COGS 18 w/ Prof Ellis,Python,"data science, GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",7,8,Required/Interest
+044_wi20,COGS 18 w/ Prof Ellis,"Python, MATLAB","Python, Jupyter Notebooks",8,6,Interesting in data science also required
+048_wi20,NA,MATLAB,none of the above,4,4,Technical Elective for Bioengineering. I am really interested in this class so I petitioned to take it as a technical elective.
+049_wi20,NA,"Python, Java","GitHub, Python",5,10,Trying something new.
+050_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), Python, Jupyter Notebooks, tabular data, machine learning, p-value, sentiment analysis, pandas (the package, not the animal), sklearn",8,9,As an elective for the data science major
+051_wi20,COGS 18 w/ Prof Ellis,"Python, None of these (I'm not comfortable programming)",none of the above,5,5,requirement
+052_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, geospatial analysis, pandas (the package, not the animal), sklearn",6,9,To learn more about data science!
+053_wi20,"COGS 9 w/ Prof Voytek (or someone else), COGS 18 w/ Prof Ellis",Python,"data science, Jupyter Notebooks",3,5,"I want to get back into coding which I quit for many years because of demotivation from CSE 8A freshman year. This class, being required, forced and gave me the courage to take this class which is going to help me further my skills immensely. It is also taught by Ellis which was the most enticing aspect since I loved her teaching style when I took her last quarter for Cogs 18."
+056_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, JSON",4,8,As a technical elective for my major
+057_wi20,NA,Java,GitHub,2,10,"Wanted to learn what data science is all about, it sounds like a really cool topic but I dont know much about it"
+059_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",6,8,For cs major elective.
+062_wi20,COGS 18 w/ Prof Ellis,"Python, Java","version control (i.e. git), Python, Jupyter Notebooks, JSON",5,6,Elective
+064_wi20,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, confounding, p-value, pandas (the package, not the animal), sklearn",7,9,I want to learn how to combine ethic with data science
+067_wi20,NA,Java,none of the above,6,3,it is required for my major
+068_wi20,NA,"Java, MATLAB","data science, version control (i.e. git), GitHub, p-value",6,6,useful skills
+069_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, Jupyter Notebooks, machine learning, confounding",6,6,NA
+070_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,10,Elective for my major
+073_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal)",7,8,Taking in lieu of DSC upper div
+075_wi20,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks",6,5,It's a required class and I enjoyed taking cogs 18 with you last quarter and wanted to take another class with you
+077_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",8,10,Major Requirement
+078_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",8,9,elective
+079_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python",5,10,NA
+080_wi20,NA,"Python, Java","GitHub, Python, machine learning",5,10,Technical elective
+081_wi20,NA,Java,"version control (i.e. git), GitHub, Jupyter Notebooks, JSON",6,8,The course sounded interested and it was an elective I could take for my CS major.
+082_wi20,NA,None of these (I'm comfortable in another language),GitHub,5,5,To understand the concept of Data Science
+084_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, machine learning",7,9,Elective
+085_wi20,COGS 9 w/ Prof Voytek (or someone else),Java,"data science, machine learning, p-value, p-hacking",3,5,Looked fun
+086_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, Python, tabular data, machine learning, p-value, p-hacking, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",10,10,required
+087_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python",3,8,For Cse electives
+088_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, JSON, p-value",6,9,I am interested in data science and need elective courses.
+089_wi20,NA,"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",9,9,DSC Elective
+090_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), sklearn, A|B testing",7,8,It is a requirement for my minor.
+091_wi20,NA,Python,"data science, Python, Jupyter Notebooks, p-value, A|B testing",7,3,prerequisite to some classes
+093_wi20,NA,Java,GitHub,8,8,Elective
+094_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks, p-value",7,7,Requirement
+096_wi20,COGS 18 w/ Tom Donoghue,None of these (I'm not comfortable programming),"Jupyter Notebooks, none of the above",3,2,It was required for my major - Cognitive Neuroscience
+097_wi20,NA,Java,"version control (i.e. git), GitHub, JSON, A|B testing",6,10,Major requirement
+098_wi20,NA,Java,"version control (i.e. git), GitHub, Python, JSON, machine learning",2,6,Upper-div CS elective/exploring COGS
+099_wi20,NA,MATLAB,p-value,3,3,NA
+101_wi20,NA,"Python, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning, p-value, pandas (the package, not the animal)",7,7,I'm interested in pursuing machine learning/data science as a career.
+104_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, machine learning, confounding, p-value, sentiment analysis, pandas (the package, not the animal), sklearn",6,8,it was required
+105_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, pandas (the package, not the animal), sklearn, A|B testing",7,7,It was required
+106_wi20,NA,Java,"version control (i.e. git), GitHub, Python, JSON, A|B testing",7,10,Interested in data science
+107_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, Python, Jupyter Notebooks, tabular data, p-value, pandas (the package, not the animal)",5,9,NA
+108_wi20,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks, p-value, p-hacking",6,4,It is required
+109_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",7,10,Elective
+110_wi20,COGS 9 w/ Prof Ellis,"Python, Java","GitHub, Python, Jupyter Notebooks, tabular data, sentiment analysis, pandas (the package, not the animal)",7,9,I am a data science major
+111_wi20,NA,Java,none of the above,5,6,it was required
+114_wi20,NA,"Java, R","p-value, A|B testing",7,6,It was required
+115_wi20,NA,Java,"version control (i.e. git), GitHub",3,5,Major requirement.
+116_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks",7,8,Interest. Want to be a data scientist.
+117_wi20,COGS 18 w/ Prof Ellis,Python,"version control (i.e. git), Jupyter Notebooks, confounding",6,4,it was required
+118_wi20,NA,Java,p-value,7,5,required for minor + curious for data science
+119_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, Python, Jupyter Notebooks, machine learning, confounding, p-value, p-hacking",7,8,Major requirement
+120_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), sklearn",4,7,I want to become a data scientist
+122_wi20,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks",8,8,to learn about the field
+123_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",9,10,"I wanted to take a course in data science with students from a variety of backgrounds. I want to change a scenery a bit, from taking my major courses with all data science students to a data science course with students from majors that may or may not be STEM."
+125_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",6,6,I am a data science major! so I want a project based course
+129_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), A|B testing",8,9,Wanted an elective to take with friends
+130_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, sklearn",5,8,I've heard it's a nice introduction to some data science principles without too much of a workload overall.
+131_wi20,COGS 18 w/ Prof Ellis,Python,Jupyter Notebooks,7,6,I wanted to do stuff relevant to my major
+134_wi20,NA,"Python, Java","data science, GitHub, Python, Jupyter Notebooks",7,9,I heard it was a fun class and I would like to learn more about data science :)
+135_wi20,NA,"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, confounding, p-value, p-hacking, A|B testing",7,9,"Required for my major, which I'm interested in"
+136_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON",6,9,To use as an elective for CSE major
+137_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,8,Interesting and upper elective
+138_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks",4,10,"It was required, but also because it seemed like statistics and I enjoyed that in high school"
+139_wi20,NA,Java,"version control (i.e. git), GitHub",5,7,it was required
+140_wi20,NA,"Python, Java, MATLAB, R","GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",8,9,It's required and I'd like to learn about data science applications.
+141_wi20,NA,Java,none of the above,3,3,Elective
+142_wi20,NA,None of these (I'm not comfortable programming),p-value,4,4,It was required
+143_wi20,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, GitHub, Python, Jupyter Notebooks, tabular data, machine learning",5,4,"I took COGS 9 before, thought Data Science was reasonably interesting, and chose a course to finish off my COGS minor."
+144_wi20,NA,Java,"GitHub, Python, machine learning",5,10,Needed for minor
+146_wi20,NA,"Python, Java","GitHub, Python",4,8,It was required
+147_wi20,NA,"Java, MATLAB","version control (i.e. git), tabular data, confounding, p-value",9,8,it looked like a fun class to take for my general ed
+148_wi20,NA,Java,none of the above,2,5,cse elective
+149_wi20,NA,Java,"version control (i.e. git), GitHub",6,7,Wanted to brush up on my Python Skill
+151_wi20,NA,Python,"Python, Jupyter Notebooks",3,5,Major requirement
+153_wi20,COGS 18 w/ Tom Donoghue,"Python, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, pandas (the package, not the animal), sklearn",4,10,NA
+154_wi20,COGS 9 w/ Prof Voytek (or someone else),Java,GitHub,3,5,cs elective
+154_wi20,COGS 9 w/ Prof Voytek (or someone else),Java,"GitHub, Python",5,5,elective
+155_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, machine learning, p-value, pandas (the package, not the animal), sklearn",8,8,it was required
+157_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, p-value, pandas (the package, not the animal), sklearn",8,9,Elective for data science that could give me project experience (I'm looking to have more hands on experiences)
+159_wi20,NA,"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, confounding, p-hacking",6,10,Warren general education area study.
+160_wi20,NA,"Python, Java, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning, p-value",7,5,"requirement, but also want to get better at python"
+161_wi20,NA,Java,"version control (i.e. git), GitHub, none of the above",5,8,Needed elective credits and heard it was a good course
+162_wi20,NA,"Python, Java, R","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal), sklearn",8,10,Free A for CS
+163_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python",2,8,"CSE Elective, interest in Data Science"
+164_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, Python, Jupyter Notebooks, tabular data, JSON, sentiment analysis, pandas (the package, not the animal), sklearn",7,8,I was able to take it as a data science upper div elective
+165_wi20,NA,"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, A|B testing",1,10,it was required
+169_wi20,NA,"Python, Java, MATLAB","GitHub, Python, Jupyter Notebooks, confounding, p-value, pandas (the package, not the animal)",6,5,It was required
+170_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, p-value, p-hacking, pandas (the package, not the animal), sklearn, A|B testing",7,10,DSC Major Elective
+171_wi20,NA,None of these (I'm not comfortable programming),"data science, version control (i.e. git), GitHub, Python, machine learning",6,6,required
+172_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",9,10,I want to try out courses which apply programming skills to solve data-related problems.
+173_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal), A|B testing",7,10,CSE Elective
+175_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), sklearn, A|B testing",6,8,I wanted to take advantage of a class that could give me time to do a personal project I've been longing to do.
+177_wi20,COGS 18 w/ Prof Ellis,Python,"data science, GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",7,8,On my own interest to improve my analytical skills and refresh my knowledge in statistics
+180_wi20,NA,"Python, R","Jupyter Notebooks, p-value, none of the above, pandas (the package, not the animal)",4,5,To get a better understanding of coding and data science
+181_wi20,NA,"Python, Java, MATLAB","Python, tabular data, p-value, geospatial analysis, tetral analysis, A|B testing",8,8,intereted
+181_wi20,NA,"Python, Java, MATLAB","data science, GitHub, Python, machine learning, p-value, A|B testing",8,8,interest
+183_wi20,COGS 18 w/ Prof Ellis,"Python, MATLAB","data science, Python, Jupyter Notebooks",4,6,"It was required, but I really like how the Professor teaches"
+186_wi20,COGS 18 w/ Prof Ellis,Python,"Python, p-value",6,6,Requirement for major
+187_wi20,NA,Python,"GitHub, Python, Jupyter Notebooks",5,9,I wanted to have a basic knowledge of data science as I'm interested in AI/Machine Learning.
+190_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, machine learning, p-value, pandas (the package, not the animal)",7,7,upper elective
+191_wi20,NA,Java,"version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON",5,9,For an interesting CSE elective
+192_wi20,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks, p-value",6,5,NA
+193_wi20,COGS 9 w/ Prof Ellis,Python,p-value,3,3,major elective
+194_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning",7,9,Recommended by many friends
+195_wi20,COGS 18 w/ Prof Ellis,"Python, R","data science, GitHub, Python, Jupyter Notebooks, p-value, geospatial analysis, pandas (the package, not the animal)",8,6,"It is not required of my major (Data Analytics B.S.), but I think it will be very useful"
+196_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, p-value, pandas (the package, not the animal), sklearn",7,7,NA
+197_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, pandas (the package, not the animal)",6,8,For elective credit
+198_wi20,NA,None of these (I'm not comfortable programming),"data science, Python, tabular data, machine learning, confounding, p-value, A|B testing",7,4,I want do diversify my skills by developing my data science and visualization skills
+199_wi20,COGS 18 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, machine learning",3,10,Wanted to get more exposure to data science and capabilities of Python.
+202_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, machine learning, pandas (the package, not the animal)",5,8,GE+Interested in DS
+203_wi20,NA,Java,p-value,9,6,Want to learn python. Also required
+206_wi20,COGS 9 w/ Prof Voytek (or someone else),R,"Python, p-value, p-hacking",8,5,NA
+207_wi20,COGS 9 w/ Prof Ellis,Java,"data science, version control (i.e. git), GitHub, JSON, machine learning, confounding, p-value, p-hacking, sentiment analysis, geospatial analysis, A|B testing",5,9,NA
+208_wi20,NA,"Python, MATLAB","GitHub, Python, Jupyter Notebooks",7,5,It was required
+209_wi20,NA,"Python, Java","GitHub, Python",7,9,Technical Elective
+211_wi20,COGS 18 w/ Prof Ellis,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON",3,8,For EE technical electives
+212_wi20,COGS 18 w/ Prof Ellis,"Python, Java, MATLAB","GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal)",7,9,"Wanted to learn data science, but apply it to biology. Eventually, I want to be able to use machine learning for drug discovery"
+214_wi20,COGS 18 w/ Prof Ellis,Python,Python,1,1,i'd like to learn more about python because I was really enjoying make something with python
+216_wi20,COGS 9 w/ Prof Ellis,"Python, MATLAB","data science, GitHub, Python, Jupyter Notebooks, confounding, p-value, sentiment analysis, pandas (the package, not the animal)",9,6,Requirement
+217_wi20,NA,Python,"data science, GitHub, Python, Jupyter Notebooks, machine learning",8,8,dsc elective
+218_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",6,9,It can be used as an elective
+221_wi20,COGS 18 w/ Prof Ellis,Python,"data science, GitHub, Python, Jupyter Notebooks",2,4,Required for my major
+223_wi20,NA,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal)",7,7,It's a requirement for my major as well as the COGS 118 series.
+223_wi20,NA,"Python, Java, MATLAB, R","version control (i.e. git), GitHub, Python, JSON, machine learning, sentiment analysis, pandas (the package, not the animal)",7,7,NA
+224_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks",4,3,It was required
+225_wi20,NA,Java,"data science, version control (i.e. git), GitHub, Python",5,7,Sounded interesting and for a major elective
+226_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, p-value, pandas (the package, not the animal), A|B testing",6,8,electives
+227_wi20,NA,Java,GitHub,4,6,Wanted to learn something different than cs courses
+228_wi20,COGS 18 w/ Prof Ellis,None of these (I'm not comfortable programming),none of the above,2,2,I really don't understand why it's required.
+229_wi20,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks, p-value, pandas (the package, not the animal)",4,3,Enhance Python experience
+230_wi20,COGS 18 w/ Tom Donoghue,Python,"GitHub, Python, Jupyter Notebooks, machine learning, p-value, p-hacking, pandas (the package, not the animal)",5,4,I want to know if I want to study machine learning or data science
+233_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",8,8,data science elective
+235_wi20,COGS 18 w/ Prof Ellis,"Python, Java","GitHub, Python, Jupyter Notebooks, pandas (the package, not the animal)",2,8,to boost my GPA
+236_wi20,NA,"Java, MATLAB","GitHub, machine learning",5,4,Required
+237_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",6,10,I want to further improve my data science skill
+238_wi20,NA,Java,"data science, version control (i.e. git), GitHub, machine learning",6,10,I'm a COGS minor
+239_wi20,NA,Java,"version control (i.e. git), GitHub, Jupyter Notebooks",1,10,it was required
+242_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, sentiment analysis, pandas (the package, not the animal), sklearn",8,7,I am interested in Machine Learning and just did data mining CSE 158
+245_wi20,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB","data science, Python, Jupyter Notebooks, tabular data, machine learning, confounding, p-value, p-hacking, sentiment analysis, geospatial analysis, pandas (the package, not the animal), A|B testing",6,7,I am interested in Data Science
+246_wi20,NA,None of these (I'm not comfortable programming),none of the above,5,4,it was required
+248_wi20,NA,"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, JSON, machine learning, confounding, p-value, pandas (the package, not the animal), sklearn",6,5,required
+249_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, p-value, p-hacking, sentiment analysis, pandas (the package, not the animal), sklearn",5,7,My friend is taking it.
+250_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, sentiment analysis, pandas (the package, not the animal), sklearn",6,10,Data Science elective
+251_wi20,NA,"Java, MATLAB","version control (i.e. git), GitHub, tabular data, JSON, p-value",7,9,I am interviewing for quant trading roles and thought this would be useful.
+252_wi20,NA,"Java, R","GitHub, p-value",5,4,It was required and I want to learn more about python.
+254_wi20,NA,Java,"version control (i.e. git), GitHub, Python, JSON",1,9,NA
+255_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, p-value",8,10,I am interested in learning about data science
+257_wi20,NA,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, pandas (the package, not the animal), sklearn, A|B testing",10,10,For fun
+258_wi20,NA,Java,"machine learning, p-value",8,8,Pre-Req for Machine learning (cogs 118 series)
+259_wi20,NA,"Python, Java, MATLAB, R","GitHub, Python, Jupyter Notebooks, machine learning",7,9,I'm interested in data science as it is getting popular.
+261_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks",7,5,It was required
+262_wi20,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,9,elective credit
+263_wi20,COGS 18 w/ Prof Ellis,None of these (I'm not comfortable programming),"GitHub, Python, Jupyter Notebooks",5,3,required
+265_wi20,NA,Java,"data science, GitHub, Python, Jupyter Notebooks, machine learning, pandas (the package, not the animal), A|B testing",7,7,Required but definitely interesting
+266_wi20,COGS 18 w/ Prof Ellis,"Python, MATLAB","Python, Jupyter Notebooks, p-value",3,3,"It was required, but I am glad it was because I am interested in consumer behavior and marketing analytics and this stats plays a role in this"
+267_wi20,NA,"Python, Java, R","version control (i.e. git), GitHub, p-value",7,7,interested In data science
+268_wi20,NA,"Python, Java","data science, GitHub, Python, JSON, machine learning",6,8,interest in data science
+269_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, p-value, pandas (the package, not the animal), A|B testing",8,8,I’m data science major and it’s cool
+271_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",9,10,Elective Upper division
+272_wi20,NA,"Python, Java, MATLAB, R","version control (i.e. git), GitHub, Python, Jupyter Notebooks",1,8,interest
+273_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",7,7,Elective for data science
+274_wi20,COGS 18 w/ Tom Donoghue,Python,"Python, Jupyter Notebooks, confounding, p-value",5,4,It’s required
+275_wi20,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, Python, Jupyter Notebooks, tabular data, p-value",8,7,It is a new elective for the data science major and I feel like it will give me an advantage for future data science project classes.
+276_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks, p-value",6,7,required
+277_wi20,NA,"Java, MATLAB",none of the above,5,7,GE requirement
+278_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",6,10,Needed an elective for data science and other friends were going to take it too.
+279_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, JSON, sentiment analysis, pandas (the package, not the animal)",7,10,NA
+280_wi20,NA,"Python, Java, MATLAB",none of the above,3,3,CSE elective
+281_wi20,NA,"Java, None of these (I'm comfortable in another language)","version control (i.e. git), GitHub, machine learning",6,10,I heard the teacher was good and it was required.
+282_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, p-value, pandas (the package, not the animal), A|B testing",9,9,I want to do some projects
+284_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,8,Fits my Major requirement
+285_wi20,NA,"Python, Java, MATLAB, R","data science, GitHub, Python, machine learning, p-value, p-hacking, pandas (the package, not the animal)",8,9,personal interest
+286_wi20,NA,Java,none of the above,6,8,Elective Course
+287_wi20,NA,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",8,10,major requirement
+290_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), sklearn, A|B testing",7,8,Elective
+292_wi20,NA,"Python, Java, R","version control (i.e. git), GitHub, Python, tabular data, JSON",7,10,Low workload to balance my schedule with my other classes
+293_wi20,NA,Java,"version control (i.e. git), GitHub, JSON",8,10,elective
+296_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, JSON",8,7,I am interested in learning Data Science
+297_wi20,NA,"Java, MATLAB",none of the above,6,7,NA
+298_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, JSON, machine learning, p-value",8,10,I'm working on a CSE major and COGS minor and this seemed like a good overlap.
+299_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn",7,10,I needed another class for my already packed schedule.
+300_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",10,10,It is an elective DSC course
+301_wi20,NA,Java,"version control (i.e. git), GitHub, p-value",9,6,GE
+302_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), sklearn",10,7,Upper division elective for data science
+303_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",5,7,fun data science elective!
+308_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, pandas (the package, not the animal), sklearn",6,8,Technical elective for CE
+309_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","GitHub, Python, Jupyter Notebooks, p-hacking, pandas (the package, not the animal)",5,8,As an Upper Div elective and it seemed fun and fit my major of Data Science
+310_wi20,COGS 18 w/ Prof Ellis,"Python, None of these (I'm not comfortable programming)","Python, Jupyter Notebooks",3,2,It was required.
+312_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,10,I would like to build my project experience for data science through this class.
+314_wi20,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,8,major elective
+315_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, p-value, sentiment analysis",7,9,I wanted to explore data science.
+316_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, p-value, pandas (the package, not the animal), A|B testing",8,8,It seemed like a fun elective for my major
+318_wi20,COGS 9 w/ Prof Voytek (or someone else),"Java, MATLAB, R","data science, JSON, p-value",8,6,It was required
+319_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,8,NA
+321_wi20,NA,None of these (I'm not comfortable programming),"data science, machine learning, p-value, none of the above",8,2,"It WAS required, but also I would like to learn more about the field, since I am not too familiar with it!"
+322_wi20,NA,"Java, MATLAB","data science, version control (i.e. git), GitHub, Python, JSON",3,8,I wanted to learn more about data science and satisfy elective credit for my major.
+326_wi20,NA,Java,"data science, confounding",8,6,It was required
+328_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, p-hacking, pandas (the package, not the animal), sklearn, A|B testing",8,9,wanted to do a fun data science project. Have an easy class where I can review the fundamentals of my major
+329_wi20,NA,Java,"p-value, none of the above",7,8,"I'm interested in data science, and I love making projects."
+330_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, R","version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, pandas (the package, not the animal), A|B testing",6,7,I have a general interest in data science.
+331_wi20,NA,"Python, Java","Python, p-value",7,6,It seemed interesting
+332_wi20,NA,"Python, Java, MATLAB","Python, Jupyter Notebooks, JSON",7,9,I took the course because it was required but I chose to take it this quarter because I was interested in learning more about Data Science
+333_wi20,COGS 18 w/ Prof Ellis,"Python, None of these (I'm not comfortable programming)","data science, Python, Jupyter Notebooks, p-value, A|B testing",8,8,it was required
+334_wi20,COGS 18 w/ Prof Ellis,"Python, MATLAB","GitHub, Python, Jupyter Notebooks, confounding, p-value, p-hacking, pandas (the package, not the animal)",8,7,Major requirement
+335_wi20,NA,Java,"data science, GitHub, machine learning",6,8,"Technical elective on top of wanting a more ""practical"" experience with team and work."
+341_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Jupyter Notebooks",5,4,It was required and I wanna learn programming.
+342_wi20,NA,MATLAB,"GitHub, Jupyter Notebooks",9,8,"To get experience with data science, python and satisfy my technical elective credit"
+344_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",7,9,"It was an elective for the Data Science major, and thought it was a good & broad intro."
+345_wi20,COGS 18 w/ Prof Ellis,Python,"data science, Python, Jupyter Notebooks, confounding, p-value, A|B testing",4,9,I wanted to take the class with the same person I took COGS 18 with.
+346_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, machine learning",5,6,Interested in data science
+347_wi20,COGS 9 w/ Prof Ellis,"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",10,8,Looked like a great course to get some project experience
+349_wi20,NA,Java,none of the above,6,7,It was required and I'm kind of interested in Python.
+350_wi20,NA,Java,"GitHub, none of the above",1,5,I'm interested in learning more about data science and python and it is required!
+351_wi20,NA,Java,"GitHub, A|B testing",3,3,It was required
+352_wi20,COGS 18 w/ Prof Ellis,"Python, MATLAB","GitHub, Python, Jupyter Notebooks, p-value",3,7,Major requirement
+354_wi20,NA,Java,none of the above,1,5,"I want to learn python in a class setting, and it was also required."
+355_wi20,NA,None of these (I'm comfortable in another language),"version control (i.e. git), GitHub",7,8,Interested
+356_wi20,NA,Python,"version control (i.e. git), GitHub, Python, tabular data, JSON, pandas (the package, not the animal)",6,8,"I think Data Science is an essential tool in the modern technical workplace, and I want to be literate in the concepts, tech, and terminology of DS"
+357_wi20,NA,"Python, Java, MATLAB, R","data science, Python, p-value, pandas (the package, not the animal), A|B testing",7,4,Want to learn more about data science
+359_wi20,COGS 9 w/ Prof Ellis,Python,"data science, pandas (the package, not the animal)",5,6,Data Science requirement
+361_wi20,NA,"Python, Java","GitHub, Python",2,6,"It’s part of my major requirements, but I am also interested in programming (and potentially data science)"
+362_wi20,COGS 18 w/ Prof Ellis,Python,none of the above,4,3,I want to excel in programming.
+363_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, machine learning, p-value, p-hacking, sentiment analysis, pandas (the package, not the animal), sklearn",6,9,Data science major elective
+364_wi20,NA,"Python, Java, R","version control (i.e. git), GitHub, Python, JSON, p-value, A|B testing",6,9,It counted as an elective and I wanted to see if I liked data science
+366_wi20,NA,Java,"GitHub, none of the above",8,7,It was required
+367_wi20,COGS 18 w/ Prof Ellis,"Python, MATLAB","GitHub, Python, Jupyter Notebooks, p-value",2,6,NA
+368_wi20,NA,None of these (I'm comfortable in another language),"version control (i.e. git), GitHub",6,8,I love to explore about data science
+369_wi20,NA,None of these (I'm comfortable in another language),"GitHub, Python, pandas (the package, not the animal)",6,8,Required
+371_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, machine learning, pandas (the package, not the animal), sklearn",2,8,Cogs Minor
+372_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",6,8,I wanted to learn more about practical applications of data science and want to use it for my data science major as an elective and for my cognitive science minor.
+373_wi20,NA,"Python, Java, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning, p-value, pandas (the package, not the animal)",8,7,interest in practical data science project
+374_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, p-value, pandas (the package, not the animal), sklearn",7,7,minor
+375_wi20,COGS 18 w/ Prof Ellis,"Python, Java","Python, Jupyter Notebooks, JSON, machine learning",3,8,It was required.
+376_wi20,NA,"Python, Java","GitHub, Python, Jupyter Notebooks, p-value, A|B testing",6,8,it was required
+382_wi20,NA,Java,p-value,7,3,It was required and I heard Professor Ellis is awesome.
+384_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, Python, Jupyter Notebooks, pandas (the package, not the animal)",6,10,I thought it would be fun and to review how to code
+385_wi20,NA,Java,"data science, GitHub, Python, Jupyter Notebooks",8,8,NA
+386_wi20,NA,"Python, Java","Python, Jupyter Notebooks, confounding, p-value, p-hacking, A|B testing",8,5,Requirement + I want to know how to do data analysis because it's a requirement in a lot of internships I've been looking at
+387_wi20,NA,"Python, Java","version control (i.e. git), GitHub",6,8,It was required
+388_wi20,NA,None of these (I'm not comfortable programming),none of the above,1,1,"slight interest, yet required"
+389_wi20,NA,Java,none of the above,2,6,Project based class with friends
+390_wi20,NA,None of these (I'm not comfortable programming),"version control (i.e. git), GitHub, Jupyter Notebooks, JSON",4,4,it was required
+391_wi20,COGS 9 w/ Prof Ellis,"Python, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning, p-value, pandas (the package, not the animal), A|B testing",3,4,i am interested in data science and it is a major requirement
+393_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",10,10,to build a data science portfolio
+394_wi20,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks, confounding, p-value, pandas (the package, not the animal)",7,6,It sounded interesting
+395_wi20,COGS 18 w/ Prof Ellis,Python,"data science, GitHub, Python, Jupyter Notebooks, machine learning",7,6,I am interested in Data Science
+397_wi20,NA,Java,GitHub,3,6,I heard it was a good CSE elective to take
+398_wi20,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), Python, confounding, p-value, pandas (the package, not the animal), A|B testing",6,7,To continue my learning in the data science field
+399_wi20,NA,MATLAB,"GitHub, machine learning, none of the above",6,3,I wanted to increase my programming skills and learn how to code in Python.
+402_wi20,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, JSON, A|B testing",5,8,I wanted to learn more about Data Science and coding in Python.
+404_wi20,COGS 9 w/ Prof Ellis,Python,"Python, Jupyter Notebooks, tabular data, machine learning, p-value, pandas (the package, not the animal), sklearn, A|B testing",5,5,"It's a course that satisfies major elective course, but I also have taken a similar course with the professor"
+405_wi20,NA,Java,none of the above,5,3,it was required
+407_wi20,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, Python, Jupyter Notebooks, confounding, p-value, pandas (the package, not the animal), A|B testing",5,6,data science elective
+408_wi20,NA,"Java, MATLAB","data science, confounding, p-value, geospatial analysis",6,6,It was required but I also wanted to try it to see what data science/stats is like.
+412_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, JSON, machine learning",8,10,It was recommended by a friend who said it was interesting
+413_wi20,COGS 9 w/ Prof Voytek (or someone else),Java,"data science, version control (i.e. git), GitHub, Python",1,9,As a CS elective and I want to get into data science more
+415_wi20,NA,Java,"Jupyter Notebooks, confounding, p-value",9,8,I wanted to learn more about what data science actually is and it’s applications in the real world
+416_wi20,NA,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, tetral analysis, A|B testing",10,10,high gpa average but also im too lazy to kaggle by myself and want friends that know ensemble learning and neural computation
+417_wi20,NA,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, confounding, p-value, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",5,10,Technical elective requirement of bioinformatics major
+418_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, machine learning",10,10,For elective
+421_wi20,NA,"Java, None of these (I'm comfortable in another language)","version control (i.e. git), GitHub",5,8,Technical Elective
+422_wi20,NA,Java,p-value,7,8,Required course and to learn data science so for career purposes.
+425_wi20,COGS 18 w/ Tom Donoghue,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, machine learning, confounding, A|B testing",4,4,"My roommate is a data scientist. Correction: data science major*, but I can't get the man to stop bagging on Cog Sci, so I'm infiltrating his world."
+426_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",9,10,It was offered as an elective.
+428_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal)",7,8,I found interesting to learn dsc in other aspects like in cogs department.
+428_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, pandas (the package, not the animal)",7,8,Want to know data science more
+429_wi20,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, Python, Jupyter Notebooks, tabular data, geospatial analysis, pandas (the package, not the animal), sklearn",8,8,Major elective
+430_wi20,NA,Java,"GitHub, Python, JSON, machine learning",8,10,"It was a requirement, but I really want to explore data science and a bit of python."
+432_wi20,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning, p-value",7,8,A lot of my friends were enrolled
+433_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal)",6,9,Part of my Area of Studies for Warren and thought it was an interesting course
+434_wi20,COGS 18 w/ Prof Ellis,Python,"data science, GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal), sklearn",4,4,Required
+435_wi20,NA,"Python, Java","GitHub, Python, Jupyter Notebooks, JSON, machine learning",6,6,As a cs selective curse
+435_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning",5,5,NA
+436_wi20,COGS 18 w/ Prof Ellis,"Python, Java","machine learning, p-value",5,5,"It was required, I want to pursue a career in product management."
+440_wi20,NA,"Python, Java, MATLAB","data science, GitHub, Python",7,9,"It was required, but I'm also incredibly interested in it's applications"
+441_wi20,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, pandas (the package, not the animal)",7,9,major requirement
+442_wi20,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn",6,8,I enrolled into COGS 108 cause it is an elective for my major
+444_wi20,NA,"Python, Java","GitHub, Python, JSON",3,7,it is required
+445_wi20,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, sklearn",7,9,ez A!
+NA,NA,"Java, None of these (I'm comfortable in another language)",none of the above,3,8,Elective for major
+NA,NA,None of these (I'm not comfortable programming),"data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, tetral analysis, A|B testing",8,4,I wanted to learn more about data science and how to apply programming skills for social good.
+NA,NA,Java,"GitHub, Python, p-value",9,7,IT IS IN MY ELECTIVE COURSE LIST AND I AM LITTLE INTERESTED IN DATA SCIENCE
+NA,COGS 18 w/ Prof Ellis,Python,"Python, Jupyter Notebooks",5,2,upper div requirement
+NA,NA,Java,none of the above,4,7,it was required
+NA,NA,"Python, Java","GitHub, Python, JSON, A|B testing",4,8,Not required (had other choices) but I wanted myself to be introduced to a data science course and COGS 108 seemed fun.
+NA,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks, p-value",10,3,It was required
+NA,COGS 9 w/ Prof Voytek (or someone else),Python,"GitHub, Python, Jupyter Notebooks, JSON, pandas (the package, not the animal)",4,4,Required
+NA,NA,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, machine learning, confounding, p-value, pandas (the package, not the animal)",9,4,"It was required but also very interested since it's very hands-on, which is the best way I learn"
+NA,NA,"Java, MATLAB",none of the above,3,5,I am interested in data science.
+NA,NA,"Python, Java, MATLAB, R","data science, GitHub, machine learning, sentiment analysis",5,10,Fulfilled both major and minor requirements
+NA,NA,Java,"data science, version control (i.e. git), GitHub, machine learning, p-value",6,9,For a CSE Elective and to learn more about data science
+NA,"COGS 9 w/ Prof Ellis, COGS 18 w/ Prof Ellis",Python,"GitHub, Python, Jupyter Notebooks, tabular data",6,6,Major elective
+NA,NA,Java,"confounding, p-value",7,7,CSE elective
+NA,NA,Java,GitHub,6,7,It's my elective course
+NA,NA,"Python, Java, MATLAB","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, p-value, sentiment analysis, pandas (the package, not the animal), sklearn",8,10,Interested in projects
+NA,NA,Java,"version control (i.e. git), GitHub, p-value",7,10,interest in data science
+NA,NA,"Python, Java","version control (i.e. git), GitHub, Python, JSON",7,10,taking an elective
+NA,NA,"Java, None of these (I'm comfortable in another language)","data science, machine learning",7,8,I think this would be an interesting course
+NA,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal), sklearn",5,8,i want to learn data science and i don't think it will be too time consuming
+NA,NA,Java,none of the above,5,7,Required
+NA,NA,Java,"version control (i.e. git), GitHub",5,5,Would like to learn about what is data science all about
+NA,NA,"Java, MATLAB, R","data science, version control (i.e. git), GitHub, p-value",6,9,"Because it looked like an easy, interesting, and fun elective class for my major (Computer Science)."
+NA,NA,"Python, Java","data science, version control (i.e. git), GitHub, Python, machine learning",3,7,It looked interesting.
+NA,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, pandas (the package, not the animal)",8,8,"im a data science major, and learning something practical would be nice rather than theoretical"
+NA,NA,None of these (I'm not comfortable programming),none of the above,1,3,I heard it is a easy elective course.
+NA,COGS 9 w/ Prof Voytek (or someone else),None of these (I'm not comfortable programming),none of the above,3,3,It was required but I also do really want to learn how to code better. Since I'm also graduating soon I'm interested in seeing my major in more of a real life setting with group collaborations.
+NA,NA,"Java, MATLAB, R","p-value, none of the above",10,6,I want to learn the information being taught
+NA,NA,Java,"version control (i.e. git), GitHub",3,8,For CSE elective
+NA,NA,"Python, Java","version control (i.e. git), GitHub, Python",3,10,technical elective for CS major
+NA,NA,Java,none of the above,5,6,interest in data science
+NA,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB","version control (i.e. git), Python, machine learning",5,7,NA
+NA,COGS 9 w/ Prof Ellis,Python,"data science, Python, p-value",6,7,For more experience programming and actually doing a data science project
+NA,COGS 9 w/ Prof Ellis,Java,"GitHub, Jupyter Notebooks, p-value, pandas (the package, not the animal), sklearn",8,9,technical elective
+NA,COGS 9 w/ Prof Ellis,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, sentiment analysis, pandas (the package, not the animal)",8,9,NA
+NA,NA,Java,"version control (i.e. git), GitHub",4,6,Petitioned to replace one of my math class and seems cool
+NA,COGS 9 w/ Prof Ellis,"Python, Java","data science, GitHub, Python, Jupyter Notebooks, p-value, pandas (the package, not the animal)",7,5,elective
+NA,NA,Java,none of the above,6,5,required
+NA,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, MATLAB, R","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, pandas (the package, not the animal), sklearn, A|B testing",8,8,elective
+NA,NA,None of these (I'm comfortable in another language),"data science, machine learning",8,9,It’s required equired and I’m interested in cog Sci
+NA,COGS 18 w/ Prof Ellis,Python,"GitHub, Python, Jupyter Notebooks, p-value",7,4,It was required
+NA,COGS 9 w/ Prof Ellis,"Python, Java","data science, version control (i.e. git), Python, p-value",7,7,"It was required, but also met my area of interest. I would've taken the course even if it weren't required."
+NA,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, pandas (the package, not the animal), sklearn",8,8,To learn more about the usage of python
+NA,NA,"Python, Java, R","GitHub, p-value, none of the above",7,9,To have an introduction to data science and become more familiar with python
+NA,NA,"Java, MATLAB","version control (i.e. git), GitHub",5,10,To learn Python while also getting a feeling for whether I'd enjoy Data Science as a minor
+NA,NA,MATLAB,"GitHub, Python, Jupyter Notebooks",8,8,I'm interested in Data Science
+NA,NA,"Python, Java, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning, pandas (the package, not the animal), sklearn",5,8,Based on my interests in data science.
+NA,NA,"Python, Java","version control (i.e. git), GitHub, Python, JSON, machine learning, p-value, pandas (the package, not the animal)",7,10,"I heard this class was light on workload and since I never formally learned Python, I thought that this class would be a perfect fit to learn and work with Python."
+NA,COGS 18 w/ Prof Ellis,"Python, Java, MATLAB","version control (i.e. git), confounding",5,5,Major Requirement
+NA,NA,MATLAB,p-value,7,4,It was required
+NA,NA,Java,"version control (i.e. git), GitHub, Python, p-value",8,7,I was personally interested in data science as a computer science major.
+NA,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, machine learning, pandas (the package, not the animal)",1,10,"It was required, but I also want to learn more about ML"
+NA,NA,"Python, Java, MATLAB","data science, GitHub, Python, tabular data",4,8,technical elective
+NA,COGS 18 w/ Prof Ellis,None of these (I'm not comfortable programming),"data science, GitHub, Python, Jupyter Notebooks",9,3,Requirement
+NA,COGS 9 w/ Prof Ellis,"Python, Java, MATLAB","data science, GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, confounding, p-value, p-hacking, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",7,8,It was required
+NA,NA,None of these (I'm comfortable in another language),"GitHub, Jupyter Notebooks",7,9,NA
+NA,NA,"Java, MATLAB","GitHub, Python, JSON, machine learning, pandas (the package, not the animal), sklearn",5,7,Technical Elective
+NA,NA,Python,Python,3,3,"It is required for my major (Technical Elective). Also, I heard it is a very interesting course."
+NA,COGS 9 w/ Prof Ellis,Java,"version control (i.e. git), GitHub, p-value, p-hacking, A|B testing",5,9,techniqual support for CSE
+NA,COGS 9 w/ Prof Voytek (or someone else),"Python, Java","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, machine learning, p-value, pandas (the package, not the animal), sklearn",7,8,topics seemed useful and relevant to my major
+NA,COGS 9 w/ Prof Voytek (or someone else),Java,Jupyter Notebooks,6,6,major requirement
+NA,COGS 18 w/ Tom Donoghue,Java,"data science, Jupyter Notebooks",6,6,It is required for my major.
+NA,COGS 18 w/ Prof Ellis,"Python, Java","Python, none of the above",3,7,It was a requirement
+NA,NA,"Python, Java","version control (i.e. git), GitHub, Python, Jupyter Notebooks, JSON, p-value",6,7,TO Learn more about data science
+NA,COGS 18 w/ Tom Donoghue,Python,"Python, Jupyter Notebooks",3,6,required to take + interested in it
+NA,NA,Python,"Python, Jupyter Notebooks",4,4,major required
+NA,COGS 9 w/ Prof Voytek (or someone else),Python,"data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, p-hacking, sentiment analysis, geospatial analysis, pandas (the package, not the animal), sklearn, A|B testing",8,10,Elective
+NA,NA,Java,none of the above,8,8,it was required
+NA,COGS 9 w/ Prof Voytek (or someone else),"Python, Java, R","data science, version control (i.e. git), GitHub, Python, Jupyter Notebooks, tabular data, JSON, machine learning, p-value, sentiment analysis, pandas (the package, not the animal), sklearn, A|B testing",8,8,Upper elective
+NA,NA,"Python, MATLAB","data science, GitHub, Python, Jupyter Notebooks, machine learning",8,8,to be good at Data analysis
+NA,NA,None of these (I'm not comfortable programming),"none of the above, A|B testing",3,3,Major requirements
+NA,NA,Java,Python,5,6,CSE elective
+NA,NA,"Java, R","version control (i.e. git), GitHub, JSON, p-value",7,10,recommended
+NA,NA,Python,Python,4,2,I heard a lot of good things about this course and also it is required for my major.
+NA,COGS 18 w/ Prof Ellis,"Python, MATLAB",Jupyter Notebooks,5,3,Its required
+NA,NA,"None of these (I'm comfortable in another language), None of these (I'm not comfortable programming)",none of the above,5,3,It is part of my COGS 108 major.
+NA,NA,"Python, Java","GitHub, Python, JSON",7,10,I'm really interested with machine learning

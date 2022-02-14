@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------
+Project summry
+----------------------------------------------------------------------------------------------------------------
+    This project aims to improve student learning in COGS108, a data science class offered at UCSD. Student data such as final grades, Piazza activities, section attendance, and so on were collected in Winter 2020. Through looking at the correlations and trends, this project provides recommendations on the amount of time a student should focus on certain areas of the learning. 
+    
+    The first part of this project was to clean up the data.(this part can be found in the 'Data cleaning, cluster' notebook). First, the unhelpful data points/features were removed and categorical data was converted into qualitative value. Next, student index was used to match student record. Once the data is cleaned, the entire dataset was normalized so each data entry is a number that is between -1 and 1. K-mean clustering with four clusters was then applied. From the four clusters, we produced boxplots for each cluster on each feature. (found in 'analysis of each cluster' notebook)
+
+    - Data of each cluster is contained in the 'clusters' folder.
+    
+    - 'useful.csv' contains samples from every cluster. 
+    
+
+    The details of how I obtained the findings are included in the COGS199 Fall 2020 notebook. 
+    
+    There are 3 major takeways from this study" 
+        1: The more confident a student is with coding/statistics, the less time the student have to spend to receive a good grade.
+        2: The students that were in Date Science and Computer Science major were more prepared than the Cognitive Science major. 
+        3. The grading of this class is very lenient as every cluster's average score is an A. 
+        
+     For improved learning, we recommend Cognitive Science students to spend 60 hours outside of the class and 40 hours for Computer Science/Data Science students . 
+
+
+    Special thanks to Professor Shannon Ellis for guiding me through this project and providing useful insights! This project would not have been completed without her dedicated support.  
+----------------------------------------------------------------------------------------------------------------
